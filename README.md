@@ -68,3 +68,10 @@ This project helped me gain hands-on experience with:
 ### **1️⃣ Clone the repository**  
 ```bash
 git clone https://github.com/Kajalm21/Movie-app.git
+
+ # Open in Android Studio and sync Gradle
+3️⃣ Add your Watchmode API Key in local.properties
+Open the local.properties file in your project and add:
+
+WATCHMODE_API_KEY=3p4qqYhozGwwqciIdNhqKdL2r7sYkQgYysfm0vCm
+4️⃣ Run the app on an emulator or physical device
