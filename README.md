@@ -47,16 +47,6 @@ This project helped me gain hands-on experience with:
 
 ---
 
-## 📲 APK Download  
-[Click here to download the APK](#) _(Replace with actual link)_  
-
----
-
-## 🎥 Demo Video  
-[Watch the walkthrough](#) _(Replace with actual video link)_  
-
----
-
 ## 🏗️ Future Improvements  
 - 📱 Add **user authentication** to allow personal watchlists.  
 - 🔥 Implement **real-time notifications** for upcoming releases.  
